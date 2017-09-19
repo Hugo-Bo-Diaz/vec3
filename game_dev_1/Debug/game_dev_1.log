@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\hugobd\documents\visual studio 2015\projects\game_dev_1\game_dev_1\vec3.h(61): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  c:\users\hugobd\documents\visual studio 2015\projects\game_dev_1\game_dev_1\vec3.h(59): note: while compiling class template member function 'float vec3<int>::distance_to(const vec3<int>)'
+  c:\users\hugobd\documents\visual studio 2015\projects\game_dev_1\game_dev_1\source.cpp(10): note: see reference to function template instantiation 'float vec3<int>::distance_to(const vec3<int>)' being compiled
+  c:\users\hugobd\documents\visual studio 2015\projects\game_dev_1\game_dev_1\source.cpp(5): note: see reference to class template instantiation 'vec3<int>' being compiled
+c:\users\hugobd\documents\visual studio 2015\projects\game_dev_1\game_dev_1\vec3.h(43): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  c:\users\hugobd\documents\visual studio 2015\projects\game_dev_1\game_dev_1\vec3.h(42): note: while compiling class template member function 'vec3<float> vec3<int>::Normalise(void)'
+  c:\users\hugobd\documents\visual studio 2015\projects\game_dev_1\game_dev_1\source.cpp(9): note: see reference to function template instantiation 'vec3<float> vec3<int>::Normalise(void)' being compiled
+  game_dev_1.vcxproj -> c:\users\hugobd\documents\visual studio 2015\Projects\game_dev_1\Debug\game_dev_1.exe
+  game_dev_1.vcxproj -> c:\users\hugobd\documents\visual studio 2015\Projects\game_dev_1\Debug\game_dev_1.pdb (Partial PDB)
